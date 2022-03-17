@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DnaLibrary Name="Excel_DNA_Issue_Replica Add-In" RuntimeVersion="v4.0" xmlns="http://schemas.excel-dna.net/addin/2020/07/dnalibrary">
- 
+  <ExternalLibrary Path="Excel_DNA_Issue_Replica.dll"  Pack="true" />
 
   <!--
        The RuntimeVersion attribute above allows only the following setting:
