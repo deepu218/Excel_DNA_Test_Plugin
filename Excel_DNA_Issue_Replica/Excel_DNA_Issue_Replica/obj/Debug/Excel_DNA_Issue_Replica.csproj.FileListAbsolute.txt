@@ -1,0 +1,7 @@
+C:\Users\f2015\source\repos\Excel_DNA_Issue_Replica\Excel_DNA_Issue_Replica\obj\Debug\Excel_DNA_Issue_Replica.csproj.CoreCompileInputs.cache
+C:\Users\f2015\source\repos\Excel_DNA_Issue_Replica\Excel_DNA_Issue_Replica\obj\Debug\Excel_DNA_Issue_Replica.csproj.AssemblyReference.cache
+C:\Users\f2015\source\repos\Excel_DNA_Issue_Replica\Excel_DNA_Issue_Replica\bin\Debug\Excel_DNA_Issue_Replica.dll.config
+C:\Users\f2015\source\repos\Excel_DNA_Issue_Replica\Excel_DNA_Issue_Replica\bin\Debug\Excel_DNA_Issue_Replica.dll
+C:\Users\f2015\source\repos\Excel_DNA_Issue_Replica\Excel_DNA_Issue_Replica\bin\Debug\Excel_DNA_Issue_Replica.pdb
+C:\Users\f2015\source\repos\Excel_DNA_Issue_Replica\Excel_DNA_Issue_Replica\obj\Debug\Excel_DNA_Issue_Replica.dll
+C:\Users\f2015\source\repos\Excel_DNA_Issue_Replica\Excel_DNA_Issue_Replica\obj\Debug\Excel_DNA_Issue_Replica.pdb
