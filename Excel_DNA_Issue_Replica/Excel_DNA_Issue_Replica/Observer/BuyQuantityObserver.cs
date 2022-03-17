@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using ExcelDna.Integration;
@@ -28,6 +28,7 @@ namespace Excel_DNA_Issue_Replica
 			{
 				DataObjectManager.getInstance()._dataObjectMap[symbol] = new ConcurrentDictionary<string,MockDataObject>();
 				DataObjectManager.getInstance()._dataObjectMap[symbol][strategy] = new MockDataObject();
+				DataObjectManager.getInstance()._dataObjectMap[symbol][strategy].BUY_QUANTITY = 0;
 			}
 
 
